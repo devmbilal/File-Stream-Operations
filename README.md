@@ -16,11 +16,6 @@ The project is organized into separate Java packages based on different assignme
 *   Each task is implemented in its own package, with a main Java file for each specific question.
     
 *   An App.java file is included, which acts as the main entry point and calls all the individual tasks for execution.
-    
-
-### **Folder Structure**
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopy codesrc/   ├── app/   │    └── App.java                  # Main entry point of the project.   ├── compileexamples/               # Package for examples from the slides.   ├── slideexamples/                 # Package for I/O and File handling examples.   ├── test_files/                    # Folder for placing test files (e.g., .txt, .jpg, .zip)   └── README.md                      # Project documentation.   `
 
 **Prerequisites**
 -----------------
@@ -47,16 +42,7 @@ Before running the project, make sure you have the following:
     
 4.  The program will execute all the tasks sequentially, displaying the results in the console.
     
-
-### **Using Command Line:**
-
-1.  **Navigate to the Project Directory**:Open a terminal or command prompt and navigate to the root folder of the project.
-    
-2.  bashCopy codejavac src/app/\*.javajavac src/compileexamples/\*.javajavac src/slideexamples/\*.java
-    
-3.  bashCopy codejava app.App
-    
-
+   
 ### **Test Files**
 
 Some of the programs in this project require test files for their operations (e.g., .txt files, .zip files, .jpg images). These test files should be placed in the test\_files directory. If the test files are missing or not available, the programs that depend on them will throw errors or fail to execute properly.
@@ -93,8 +79,3 @@ Below is a brief description of the main files in the project:
 -----------
 
 This project is provided as-is for educational purposes. You are free to use and modify it for learning and experimentation.
-
-**Contact**
------------
-
-For any questions or issues, feel free to reach out to me.
