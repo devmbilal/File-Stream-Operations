@@ -70,9 +70,9 @@ Below is a brief description of the main files in the project:
 
 *   App.java: The main driver program that calls all tasks.
     
-*   BuffInput.java, BuffInputFile.java, ByteArrayIOApp.java, etc.: Individual Java programs that implement different file I/O operations.
+*   Individual Java programs in src that implement different file I/O operations.
     
-*   test\_files/: Folder for required test files (e.g., b.txt, a.txt, github.png, test.zip).
+*   files/: Folder for required test files (e.g., b.txt, a.txt, github.png, test.zip).
     
 
 **License**
