@@ -1,0 +1,32 @@
+What I do
+PASSIONATE BACKEND DEVELOPER EXPLORING DEVOPS AND API DEVELOPMENT
+
+html-5
+
+css3
+
+sass
+
+JavaScript
+
+nodejs
+
+npm
+
+sql-database
+
+aws
+
+firebase
+
+python
+
+docker
+
+git
+
+⚡ Develop scalable backend services and RESTful APIs using Node.js and Express.js
+
+⚡ Database management and integration with MongoDB and MySQL
+
+⚡ Experience with collaborative tools like Git and GitHub for version control and teamwork

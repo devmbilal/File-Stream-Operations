@@ -1,0 +1,5 @@
+Hi all, I'm Bilal 👋
+A backend and API developer skilled in Node.js, Express.js,
+ and database management, with experience in building scalable applications 
+ and RESTful APIs. Currently expanding my expertise in DevOps to optimize and automate workflows.
+
